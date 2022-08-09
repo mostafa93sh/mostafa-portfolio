@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mostafa93sh/mostafa-shaban.git/static/css/main.fbae0ec0.css",
+    "main.js": "/mostafa93sh/mostafa-shaban.git/static/js/main.6bff131f.js",
+    "static/js/787.1ed0c42c.chunk.js": "/mostafa93sh/mostafa-shaban.git/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/mostafa93sh/mostafa-shaban.git/index.html",
+    "main.fbae0ec0.css.map": "/mostafa93sh/mostafa-shaban.git/static/css/main.fbae0ec0.css.map",
+    "main.6bff131f.js.map": "/mostafa93sh/mostafa-shaban.git/static/js/main.6bff131f.js.map",
+    "787.1ed0c42c.chunk.js.map": "/mostafa93sh/mostafa-shaban.git/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbae0ec0.css",
+    "static/js/main.6bff131f.js"
+  ]
+}
