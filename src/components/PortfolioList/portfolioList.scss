@@ -1,0 +1,21 @@
+@import '../../global';
+
+
+    li{
+        margin-right: 50px;
+        padding: 7px;
+        font-size: 12px;
+        cursor: pointer;
+        @include mobile{
+            margin:7px 15px;
+                 
+        }
+    
+        &.active{
+            background-color: $mainColor;
+            color: white;
+            border-radius: 10px;
+    
+        }
+    }
+

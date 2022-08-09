@@ -1,0 +1,121 @@
+@import '../../global.scss';
+
+
+.testimonails{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    
+    flex-direction: column;
+    @include mobile{
+        justify-content: space-around;
+             
+    }
+    
+    h1{
+        font-size: 50px;
+        @include mobile{
+            font-size: 20px;
+                 
+        }
+    }
+    .container{
+        width: 100%;
+        height: 80%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        @include mobile{
+            flex-direction: column;
+            justify-content: space-around;
+            height: 100%;
+                 
+        }
+
+        .card{
+            width: 250px;
+            height: 80%;
+            display: flex;
+            flex-direction: column;
+            box-shadow: 0px 0px 15px -8px black;
+            justify-content:space-around;
+            padding: 20px;
+            border-radius: 10px;
+            transition: all 1s ease;
+            @include mobile{
+                height: 150px;
+                width: 220px;
+                padding: 7px;
+                margin: 10px 0;
+                
+                     
+            }
+            
+
+            &.featured{
+                width: 275px;margin: 0  30px;
+                @include mobile{
+                    width: 230px;
+                    height: 180px;margin: 1px;
+                         
+                }
+            }
+
+            &:hover{
+                transform: scale(1.1);
+            }
+
+            .top{
+                display: flex;
+                align-items: center;
+                justify-content: space-around;
+                img{
+                    &.left , &.right{
+                        height: 25px;
+                    }
+                    &.users{
+                        height: 60px;
+                        width: 60px;
+                        border-radius: 50%;
+                        object-fit: cover;
+                        @include mobile{
+                            width: 40px;
+                            height: 40px;
+                                 
+                        }
+                    }
+                }
+
+            }
+            .center{
+                background-color: rgb(221, 217, 218);
+                padding: 20px;
+                border-radius: 10px;
+                @include mobile{
+                    font-size: 12px;
+                    padding: 5px;
+                         
+                }
+            }
+            .bottom{
+                display: flex;align-items: center;justify-content: center;flex-direction: column;
+
+                h3{
+                    margin-bottom: 5px;
+                    @include mobile{
+                        font-size: 14px;
+                             
+                    }
+                }
+                h4{
+                    color:rgb(155, 151, 151);
+                    @include mobile{
+                        font-size: 13px;
+                             
+                    }
+                }
+            }
+        }
+        
+    }
+}
