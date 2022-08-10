@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio.git/static/css/main.fbae0ec0.css",
-    "main.js": "/portfolio.git/static/js/main.e3e46c3a.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio.git/static/js/787.1ed0c42c.chunk.js",
-    "index.html": "/portfolio.git/index.html",
-    "main.fbae0ec0.css.map": "/portfolio.git/static/css/main.fbae0ec0.css.map",
-    "main.e3e46c3a.js.map": "/portfolio.git/static/js/main.e3e46c3a.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio.git/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/mostafa93sh/portfolio.github.io.git/static/css/main.fbae0ec0.css",
+    "main.js": "/mostafa93sh/portfolio.github.io.git/static/js/main.1210c10d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/mostafa93sh/portfolio.github.io.git/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/mostafa93sh/portfolio.github.io.git/index.html",
+    "main.fbae0ec0.css.map": "/mostafa93sh/portfolio.github.io.git/static/css/main.fbae0ec0.css.map",
+    "main.1210c10d.js.map": "/mostafa93sh/portfolio.github.io.git/static/js/main.1210c10d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/mostafa93sh/portfolio.github.io.git/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fbae0ec0.css",
-    "static/js/main.e3e46c3a.js"
+    "static/js/main.1210c10d.js"
   ]
 }
